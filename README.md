@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://user-images.githubusercontent.com/49693820/81296489-999abf00-908f-11ea-9442-75e8f0ecf65d.gif"></img>
+<img src="https://github.com/iNuman/foliocheck/blob/master/portfolio.gif"></img>
   </kbd>
 </p>
 
@@ -118,7 +118,7 @@ if face any issues during deployment run CMD as Administrator.
 
 ## Original Devs ✨
 
-Thanks goes to these awesome guys ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these awesome guys:
 - [Saad Pasta](https://github.com/saadpasta/) and - [Ashutosh Hathidara](https://github.com/ashutosh1919/).
 - Develop this portfolio of mine by following Saads' guidelines and Ashutosh Hathidara Repo which was according to my needs.
 ---

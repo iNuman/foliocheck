@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.6ddd92c7.chunk.css",
-    "main.js": "/static/js/main.7192b7cd.chunk.js",
-    "main.js.map": "/static/js/main.7192b7cd.chunk.js.map",
+    "main.js": "/static/js/main.51a65ce6.chunk.js",
+    "main.js.map": "/static/js/main.51a65ce6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da64f202.js",
     "runtime-main.js.map": "/static/js/runtime-main.da64f202.js.map",
     "static/js/2.c635df55.chunk.js": "/static/js/2.c635df55.chunk.js",
     "static/js/2.c635df55.chunk.js.map": "/static/js/2.c635df55.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0c948fa57719059bceeffe2ceec24570.js": "/precache-manifest.0c948fa57719059bceeffe2ceec24570.js",
+    "precache-manifest.258dd797b65ab223ba79539e39eed8df.js": "/precache-manifest.258dd797b65ab223ba79539e39eed8df.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.6ddd92c7.chunk.css.map": "/static/css/main.6ddd92c7.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.6c8410d0.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.a633be2f.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
@@ -33,7 +32,7 @@
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
-    "static/media/iiitk_logo.png": "/static/media/iiitk_logo.c350d799.png",
+    "static/media/iiitk_logo.png": "/static/media/iiitk_logo.17c55aa8.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
@@ -46,12 +45,13 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
+    "static/media/todelete.png": "/static/media/todelete.c350d799.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.da64f202.js",
     "static/js/2.c635df55.chunk.js",
     "static/css/main.6ddd92c7.chunk.css",
-    "static/js/main.7192b7cd.chunk.js"
+    "static/js/main.51a65ce6.chunk.js"
   ]
 }

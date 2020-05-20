@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5546f4f040bfaa310b7998e3f60882b4",
+    "revision": "ff8b6a1ff26ab0fc2a8496541c2400f3",
     "url": "/index.html"
   },
   {
-    "revision": "e36a86dce012fd6e7f78",
+    "revision": "a887e3530bb94ea6262d",
     "url": "/static/css/main.6ddd92c7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c635df55.chunk.js"
   },
   {
-    "revision": "e36a86dce012fd6e7f78",
-    "url": "/static/js/main.7192b7cd.chunk.js"
+    "revision": "a887e3530bb94ea6262d",
+    "url": "/static/js/main.51a65ce6.chunk.js"
   },
   {
     "revision": "429d4bd2a02e7eb9e630",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
     "url": "/static/media/address_image.3b021f8f.svg"
-  },
-  {
-    "revision": "6c8410d0dc11fec239040695be13315d",
-    "url": "/static/media/animated_ashutosh.6c8410d0.png"
   },
   {
     "revision": "a633be2faf9b129259563d65d0aa1333",
@@ -192,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ibm_logo.6d325fec.png"
   },
   {
-    "revision": "c350d7996596e9909fe72c0938cc9ee5",
-    "url": "/static/media/iiitk_logo.c350d799.png"
+    "revision": "17c55aa881dcbc720036ddf213866fe0",
+    "url": "/static/media/iiitk_logo.17c55aa8.png"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",
@@ -242,6 +238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7f0feeedda08cf7d68593454bc2e82b5",
     "url": "/static/media/talksCardBackAlt.7f0feeed.svg"
+  },
+  {
+    "revision": "c350d7996596e9909fe72c0938cc9ee5",
+    "url": "/static/media/todelete.c350d799.png"
   },
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
